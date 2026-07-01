@@ -69,8 +69,8 @@ const menuData = [
             { name: "Cedrata", name_en: "Cedrata (Citron Soda)", price: 2.50 },
             { name: "Gassosa Chiurazzi", name_en: "Chiurazzi Soda", price: 2.00 },
             { name: "Schweppes tonica/lemon", name_en: "Schweppes tonic/lemon", price: 2.00 },
-            { name: "Fever Tree Tonic/Ginger beer", name_en: "Fever Tree Tonic/Grapefruit", price: 2,50 },
-            { name: "Thomas Henry Tonic/Grapefruit", name_en: "Fever Tree Tonic/Grapefruit", price: 2,50 },
+            { name: "Fever Tree Tonic/Ginger beer", name_en: "Fever Tree Tonic/Grapefruit", price: 2.50 },
+            { name: "Thomas Henry Tonic/Grapefruit", name_en: "Fever Tree Tonic/Grapefruit", price: 2.50 },
             { name: "Cocktail San Pellegrino", name_en: "San Pellegrino Cocktail", price: 2.50 },
             { name: "Crodino", name_en: "Crodino", price: 2.50 }
         ]
