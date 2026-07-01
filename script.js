@@ -16,7 +16,6 @@ const menuData = [
             { name: "Caffè Shakerato", name_en: "Shaked Iced Coffee", description: "caffè shakerato con ghiaccio.", description_en: "iced coffee shaken with ice.", price: 2.00 },
             { name: "Caffè Shakerato con latte di mandorla", name_en: "Shaked Iced Coffee with almond milk", description: "caffè shakerato con ghiaccio e latte di mandorla.", description_en: "iced coffee shaked with ice and almond milk.", price: 2.50 },
             { name: "Caffè Shakerato con latte di baileys", name_en: "Shaked Iced Coffee with baileys", description: "caffè shakerato con ghiaccio e baileys.", description_en: "iced coffee shaked with ice and baileys.", price: 3.00 },
-
         ]
     },
     {
