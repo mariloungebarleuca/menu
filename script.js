@@ -242,8 +242,8 @@ const menuData = [
             { name: "Pezzetti di Cavallo", name_en: "Horse Stew", description: "frisa con pezzetti di cavallo (powered by Macelleria Petracca).", description_en: "frisa with horse stew (powered by Macelleria Petracca).", price: 8.00 },
             { name: "Coppa di Suino ", name_en: "Pork Shoulder", description: "frisa con coppa di suino e stracciatella, pomodori secchi e melanzane sott'olio. (powered by Macelleria Petracca)", description_en: "frisa with pork shoulder and stracciatella, sun-dried tomatoes, and eggplant in oil. (powered by Macelleria Petracca)", price: 8.00 },
             { name: "Alici", name_en: "Anchovies", description: "frisa con pomodoro fresco, capperi e alici.", description_en: "frisa with fresh tomatoes, capers, and anchovies.", price: 6.00 },
-            { name: "Tartare di Tonno", name_en: "Tuna Tartare", description: "frisa con 80 gr di tartare di tonno, gellé al cocomero, cocomero e cipolla agrodolce.", description_en: "frisa with 80 grams of tuna tartare, watermelon gelée, watermelon, and sweet-and-sour onions.", price: 14.00 },
-            { name: "Tartare di Gambero", name_en: "Prawn Tartare", description: "frisa con 80 gr di tartare di gambero e scorza di lime.", description_en: "frisa with 80 grams of prawn tartare and lime zest.", price: 14.00 }
+            { name: "Tartare di Tonno", name_en: "Tuna Tartare", description: "frisa con 80 gr di tartare di tonno rosso, gellé al cocomero, cocomero e cipolla agrodolce.", description_en: "frisa with 80 grams of red tuna tartare, watermelon gelée, watermelon, and sweet-and-sour onions.", price: 14.00 },
+            { name: "Tartare di Gambero", name_en: "Prawn Tartare", description: "frisa con 80 gr di tartare di gambero viola e scorza di lime.", description_en: "frisa with 80 grams of purple prawn tartare and lime zest.", price: 14.00 }
         ]
     }
 ];
