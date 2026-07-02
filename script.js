@@ -16,6 +16,7 @@ const menuData = [
             { name: "Caffè Shakerato", name_en: "Shaked Iced Coffee", description: "caffè shakerato con ghiaccio.", description_en: "iced coffee shaken with ice.", price: 2.00 },
             { name: "Caffè Shakerato con latte di mandorla", name_en: "Shaked Iced Coffee with almond milk", description: "caffè shakerato con ghiaccio e latte di mandorla.", description_en: "iced coffee shaked with ice and almond milk.", price: 2.50 },
             { name: "Caffè Shakerato con latte di baileys", name_en: "Shaked Iced Coffee with baileys", description: "caffè shakerato con ghiaccio e baileys.", description_en: "iced coffee shaked with ice and baileys.", price: 3.00 },
+
         ]
     },
     {
@@ -62,7 +63,7 @@ const menuData = [
             { name: "Succo Ananas", name_en: "Pineapple Juice", price: 2.50 },
             { name: "Succo Albicocca", name_en: "Apricot Juice", price: 2.50 },
             { name: "Succo Melograna", name_en: "Pomegranate Juice", price: 2.50 },
-            { name: "Succo Arancia Rossa", name_en: "red orange Juice", price: 2.50 },
+            { name: "Succo Arancia Rossa", name_en: "Red Orange Juice", price: 2.50 },
             { name: "Succo ACE", name_en: "Ace Juice", price: 2.50 },
             { name: "Succo Pesca-Mango", name_en: "Peach & Mango Juice", price: 2.50 },
             { name: "Cedrata", name_en: "Cedrata (Citron Soda)", price: 2.50 },
@@ -186,10 +187,11 @@ const menuData = [
             { name: "Nutella", name_en: "Nutella", description: "crepe con nutella.", description_en: "crepe with nutella.", price: 4.00 },
             { name: "Nutella Vegana", name_en: "Vegan Nutella", description: "crepe con nutella.", description_en: "crepe with vegan nutella.", price: 4.00 },
             { name: "Nutella Bianca", name_en: "White Nutella", description: "crepe con crema bianca alla nocciola.", description_en: "crepe with white hazelnut cream.", price: 4.00 },
-            { name: "Fondente", name_en: "Dark Chocolate", description: "crepe con cioccolato fondente.", description_en: "crepe with dark chocolate.", price: 4.00 },
-            { name: "Oreo", name_en: "Oreo", description: "crepe con crema e biscotto Oreo.", description_en: "crepe with cream and Oreo cookie.", price: 4.00 },
-            { name: "Lotus", name_en: "Lotus", description: "crepe con crema Lotus.", description_en: "crepe with Lotus cream.", price: 4.00 },
-            { name: "Pistacchio", name_en: "Pistachio", description: "crepe con crema al pistacchio.", description_en: "crepe with pistachio cream.", price: 4.00 },
+            { name: "Fondente", name_en: "Dark Chocolate", description: "crepe con cioccolato fondente.", description_en: "crepe with dark chocolate.", price: 4.50 },
+            { name: "Oreo", name_en: "Oreo", description: "crepe con crema e biscotto Oreo.", description_en: "crepe with cream and Oreo cookie.", price: 4.50 },
+            { name: "Lotus", name_en: "Lotus", description: "crepe con crema Lotus.", description_en: "crepe with Lotus cream.", price: 4.50 },
+            { name: "Raffaello", name_en: "Raffaello", description: "crepe con crema Raffaello.", description_en: "crepe with Raffaello cream.", price: 4.50 },
+            { name: "Pistacchio", name_en: "Pistachio", description: "crepe con crema al pistacchio.", description_en: "crepe with pistachio cream.", price: 4.50 },
             { name: "Bigusto", name_en: "Two Flavours", description: "crepe con due gusti a scelta.", description_en: "crepe filled with two flavours of choice.", price: 4.00 },
 
         ]
@@ -238,12 +240,13 @@ const menuData = [
         category_en: "Frise (Salento Bread)",
         icon: "🫓",
         items: [
-            { name: "Pomodoro", name_en: "Tomato", description: "frisa con pomodoro fresco e olio.", description_en: "frisa with fresh tomato and oil.", price: 2.50 },
+            { name: "Pomodoro", name_en: "Tomato", description: "frisa con pomodoro fresco e olio.", description_en: "frisa with fresh tomato and oil.", price: 3.00 },
+            { name: "Salamura", name_en: "Salamura", description: "frisa con peperonata salentina (leggermente piccante).", description_en: "frisa with Salento Peperonata (slightly spicy).", price: 7.00 },
             { name: "Pezzetti di Cavallo", name_en: "Horse Stew", description: "frisa con pezzetti di cavallo (powered by Macelleria Petracca).", description_en: "frisa with horse stew (powered by Macelleria Petracca).", price: 8.00 },
             { name: "Coppa di Suino ", name_en: "Pork Shoulder", description: "frisa con coppa di suino e stracciatella, pomodori secchi e melanzane sott'olio. (powered by Macelleria Petracca)", description_en: "frisa with pork shoulder and stracciatella, sun-dried tomatoes, and eggplant in oil. (powered by Macelleria Petracca)", price: 8.00 },
             { name: "Alici", name_en: "Anchovies", description: "frisa con pomodoro fresco, capperi e alici.", description_en: "frisa with fresh tomatoes, capers, and anchovies.", price: 6.00 },
-            { name: "Tartare di Tonno", name_en: "Tuna Tartare", description: "frisa con 80 gr di tartare di tonno rosso, gellé al cocomero, cocomero e cipolla agrodolce.", description_en: "frisa with 80 grams of red tuna tartare, watermelon gelée, watermelon, and sweet-and-sour onions.", price: 14.00 },
-            { name: "Tartare di Gambero", name_en: "Prawn Tartare", description: "frisa con 80 gr di tartare di gambero viola e scorza di lime.", description_en: "frisa with 80 grams of purple prawn tartare and lime zest.", price: 14.00 }
+            { name: "Tartare di Tonno", name_en: "Tuna Tartare", description: "frisa con 80 gr di tartare di tonno rosso, gellé al cocomero, cocomero, cipolla agrodolce e zest di limone.", description_en: "frisa with 80 grams of red tuna tartare, watermelon gelée, watermelon, sweet-and-sour onions and lemon zest.", price: 14.00 },
+            { name: "Tartare di Gambero", name_en: "Prawn Tartare", description: "frisa con 80 gr di tartare di gambero viola, stracciatella, zest di lime epepe rosa.", description_en: "frisa with 80 grams of purple prawn tartare, stracciatella, lime zest, and pink pepper.", price: 14.00 }
         ]
     }
 ];
