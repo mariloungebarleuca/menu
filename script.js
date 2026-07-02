@@ -190,8 +190,8 @@ const menuData = [
             { name: "Oreo", name_en: "Oreo", description: "crepe con crema e biscotto Oreo.", description_en: "crepe with cream and Oreo cookie.", price: 4.50 },
             { name: "Lotus", name_en: "Lotus", description: "crepe con crema Lotus.", description_en: "crepe with Lotus cream.", price: 4.50 },
             { name: "Raffaello", name_en: "Raffaello", description: "crepe con crema Raffaello.", description_en: "crepe with Raffaello cream.", price: 4.50 },
-            { name: "Pistacchio", name_en: "Pistachio", description: "crepe con crema al pistacchio.", description_en: "crepe with pistachio cream.", price: 4.50 },
-            { name: "Bigusto", name_en: "Two Flavours", description: "crepe con due gusti a scelta.", description_en: "crepe filled with two flavours of choice.", price: 4.00 },
+            { name: "Pistacchio", name_en: "Pistachio", description: "crepe con crema al pistacchio.", description_en: "crepe with pistachio cream.", price: 5.00 },
+            { name: "Bigusto", name_en: "Two Flavours", description: "crepe con due gusti a scelta.", description_en: "crepe filled with two flavours of choice.", price: 5.00 },
 
         ]
     },
