@@ -248,8 +248,8 @@ const menuData = [
         ]
     },
     {
-        category: "Rosticceria ed Aperitivi",
-        category_en: "Bakery & Appetizers",
+        category: "Rosticceria",
+        category_en: "Bakery",
         icon: "🍕",
         items: [
             { name: "Pizzella", name_en: "Mini Pizza", price: 2.50, description: "Pizzella al pomodoro e mozzarella.", description_en: "Mini pizza with tomato and mozzarella.", allergens: ["Glutine", "Latte"], allergens_en: ["Gluten", "Milk"] },
