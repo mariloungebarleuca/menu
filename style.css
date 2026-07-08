@@ -263,3 +263,29 @@ body {
 .category-section.hidden {
     display: none;
 }
+
+/* Allergens */
+.item-allergens {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0.3rem;
+    margin-top: 0.5rem;
+}
+
+.allergens-label {
+    font-size: 0.75rem;
+    color: #92650a;
+    font-weight: 600;
+    white-space: nowrap;
+}
+
+.allergen-tag {
+    font-size: 0.72rem;
+    background: #fff8e6;
+    color: #92650a;
+    border: 1px solid #f0c060;
+    border-radius: 4px;
+    padding: 0.1rem 0.45rem;
+    white-space: nowrap;
+}
