@@ -193,9 +193,9 @@ const menuData = [
             { name: "Oreo", name_en: "Oreo", price: 2.00, description: "Cornetto farcito con crema Oreo.", description_en: "Croissant filled with Oreo cream.", allergens: ["Glutine", "Latte", "Uova", "Soia"], allergens_en: ["Gluten", "Milk", "Eggs", "Soy"] },
             { name: "Raffaello", name_en: "Raffaello", price: 2.00, description: "Cornetto farcito con crema Raffaello.", description_en: "Croissant filled with Raffaello cream.", allergens: ["Glutine", "Latte", "Uova", "Frutta a guscio (cocco, mandorla)"], allergens_en: ["Gluten", "Milk", "Eggs", "Tree nuts (coconut, almond)"] },
             { name: "Marmellata", name_en: "Jam", price: 2.00, description: "Cornetto farcito con marmellata di frutta.", description_en: "Croissant filled with fruit jam.", allergens: ["Glutine", "Uova"], allergens_en: ["Gluten", "Eggs"] },
-            { name: "Bigusto", name_en: "Two Flavours", price: 2.50, description: "Cornetto farcito con due gusti a scelta.", description_en: "Croissant filled with two flavours of choice.", allergens: ["Glutine", "Latte", "Uova"], allergens_en: ["Gluten", "Milk", "Eggs"] }
+            { name: "Bigusto", name_en: "Two Flavours", price: 2.50, description: "Cornetto farcito con due gusti a scelta.", description_en: "Croissant filled with two flavours of choice.", allergens: ["Glutine", "Latte", "Uova"], allergens_en: ["Gluten", "Milk", "Eggs"] },
             { name: "Pangocciolo", name_en: "Pangocciolo", price: 3.00, description: "Pangocciolo con gocce di cioccolato.", description_en: "Pangocciolo with chocolate chips.", allergens: ["Glutine", "Latte", "Uova", "Soia"], allergens_en: ["Gluten", "Milk", "Eggs", "Soy"] },
-{ name: "Pangocciolo Farcito", name_en: "Filled Pangocciolo", price: 4.00, description: "Pangocciolo farcito con crema a scelta.", description_en: "Pangocciolo filled your choice of cream.", allergens: ["Glutine", "Latte", "Uova", "Soia"], allergens_en: ["Gluten", "Milk", "Eggs", "Soy"] },
+            { name: "Pangocciolo Farcito", name_en: "Filled Pangocciolo", price: 4.00, description: "Pangocciolo farcito con crema a scelta.", description_en: "Pangocciolo filled your choice of cream.", allergens: ["Glutine", "Latte", "Uova", "Soia"], allergens_en: ["Gluten", "Milk", "Eggs", "Soy"] }
         ]
     },
     {
@@ -264,7 +264,7 @@ const menuData = [
             { name: "Calzone al Forno", name_en: "Baked Calzone", price: 2.50, description: "Calzone al forno ripieno.", description_en: "Baked filled calzone.", allergens: ["Glutine", "Latte"], allergens_en: ["Gluten", "Milk"] },
             { name: "Calzone Ripieno", name_en: "Stuffed Calzone", price: 3.50, description: "Calzone fritto o al forno ripieno.", description_en: "Baked or fried filled calzone.", allergens: ["Glutine", "Latte"], allergens_en: ["Gluten", "Milk"] },
             { name: "Calzone con Pezzetti di Cavallo", name_en: "Horse Stew Calzone", price: 4.50, description: "Calzone fritto o al forno con pezzetti di cavallo.", description_en: "Baked or fried  calzone filled with horse stew.", allergens: ["Glutine", "Latte"], allergens_en: ["Gluten", "Milk"] },
-            { name: "Focaccia Margherita", name_en: "Margherita Focaccia", price: 3.00, description: "Focaccia con pomodoro e mozzarella.", description_en: "Focaccia with tomato and mozzarella.", allergens: ["Glutine", "Latte"], allergens_en: ["Gluten", "Milk"] },
+            { name: "Focaccia Margherita", name_en: "Margherita Focaccia", price: 3.00, description: "Focaccia con pomodoro e mozzarella.", description_en: "Focaccia with tomato and mozzarella.", allergens: ["Glutine", "Latte"], allergens_en: ["Gluten", "Milk"] }
         ]
     }
 ];
