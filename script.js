@@ -195,7 +195,7 @@ const menuData = [
             { name: "Marmellata", name_en: "Jam", price: 2.00, description: "Cornetto farcito con marmellata di frutta.", description_en: "Croissant filled with fruit jam.", allergens: ["Glutine", "Uova"], allergens_en: ["Gluten", "Eggs"] },
             { name: "Bigusto", name_en: "Two Flavours", price: 2.50, description: "Cornetto farcito con due gusti a scelta.", description_en: "Croissant filled with two flavours of choice.", allergens: ["Glutine", "Latte", "Uova"], allergens_en: ["Gluten", "Milk", "Eggs"] },
             { name: "Pangocciolo", name_en: "Pangocciolo", price: 3.00, description: "Pangocciolo con gocce di cioccolato.", description_en: "Pangocciolo with chocolate chips.", allergens: ["Glutine", "Latte", "Uova", "Soia"], allergens_en: ["Gluten", "Milk", "Eggs", "Soy"] },
-            { name: "Pangocciolo Farcito", name_en: "Filled Pangocciolo", price: 4.00, description: "Pangocciolo farcito con crema a scelta.", description_en: "Pangocciolo filled your choice of cream.", allergens: ["Glutine", "Latte", "Uova", "Soia"], allergens_en: ["Gluten", "Milk", "Eggs", "Soy"] }
+            { name: "Pangocciolo Farcito", name_en: "Filled Pangocciolo", price: 3.50, description: "Pangocciolo farcito con crema a scelta.", description_en: "Pangocciolo filled your choice of cream.", allergens: ["Glutine", "Latte", "Uova", "Soia"], allergens_en: ["Gluten", "Milk", "Eggs", "Soy"] }
         ]
     },
     {
