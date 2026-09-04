@@ -46,13 +46,13 @@ const menuData = [
             { name: "Succo Arancia Rossa", name_en: "Red Orange Juice", price: 3.00 },
             { name: "Succo ACE", name_en: "Ace Juice", price: 3.00 },
             { name: "Succo Pesca-Mango", name_en: "Peach & Mango Juice", price: 3.00 },
-            { name: "Cedrata", name_en: "Cedrata (Citron Soda)", price: 3.00 },
-            { name: "Gassosa Chiurazzi", name_en: "Chiurazzi Soda", price: 3.00 },
-            { name: "Schweppes Tonica/Lemon", name_en: "Schweppes Tonic/Lemon", price: 3.00 },
+            { name: "Cedrata", name_en: "Cedrata (Citron Soda)", price: 2.50 },
+            { name: "Gassosa Chiurazzi", name_en: "Chiurazzi Soda", price: 2.50 },
+            { name: "Schweppes Tonica/Lemon", name_en: "Schweppes Tonic/Lemon", price: 2.50 },
             { name: "Fever Tree Tonic/Ginger Beer", name_en: "Fever Tree Tonic/Ginger Beer", price: 3.00 },
             { name: "Thomas Henry Tonic/Grapefruit", name_en: "Thomas Henry Tonic/Grapefruit", price: 3.00 },
-            { name: "Cocktail San Pellegrino", name_en: "San Pellegrino Cocktail", price: 3.00 },
-            { name: "Crodino", name_en: "Crodino", price: 3.00 }
+            { name: "Cocktail San Pellegrino", name_en: "San Pellegrino Cocktail", price: 2.50 },
+            { name: "Crodino", name_en: "Crodino", price: 2.50 }
         ]
     },
     {
