@@ -23,14 +23,14 @@ const menuData = [
         category_en: "Amari & Digestifs",
         icon: "🍾",
         items: [
-            { name: "Jagermeister", name_en: "Jagermeister", price: 4.00, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
-            { name: "Montenegro", name_en: "Montenegro", price: 4.00, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
-            { name: "Petrus", name_en: "Petrus", price: 4.00, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
-            { name: "Unicum", name_en: "Unicum", price: 4.00, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
-            { name: "Amaro del Capo", name_en: "Amaro del Capo", price: 4.00, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
-            { name: "Fernet Branca", name_en: "Fernet Branca", price: 4.00, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
-            { name: "Pizzicamaro", name_en: "Pizzicamaro", price: 4.00, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
-            { name: "Baileys", name_en: "Baileys", price: 4.00, allergens: ["Latte"], allergens_en: ["Milk"] },
+            { name: "Jagermeister", name_en: "Jagermeister", price: 3.50, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
+            { name: "Montenegro", name_en: "Montenegro", price: 3.50, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
+            { name: "Petrus", name_en: "Petrus", price: 3.50, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
+            { name: "Unicum", name_en: "Unicum", price: 3.50, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
+            { name: "Amaro del Capo", name_en: "Amaro del Capo", price: 3.50, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
+            { name: "Fernet Branca", name_en: "Fernet Branca", price: 3.50, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
+            { name: "Pizzicamaro", name_en: "Pizzicamaro", price: 3.50, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
+            { name: "Baileys", name_en: "Baileys", price: 3.50, allergens: ["Latte"], allergens_en: ["Milk"] },
         ]
     },
     {
