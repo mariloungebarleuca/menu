@@ -174,8 +174,8 @@ const menuData = [
         category_en: "Aperitifs",
         icon: "🍽️",
         items: [
-            { name: "Aperitivo Terra (x2)", name_en: "Land Aperitif (x2)", price: 12.00, description: "Degustazione di specialità di terra (2 persone).", description_en: "Selection of mixed savoury bites (2 people).", allergens: ["Glutine", "Latte", "Uova"], allergens_en: ["Gluten", "Milk", "Eggs"] },
-            { name: "Aperitivo Mare (x2)", name_en: "Seafood Aperitif (x2)", price: 17.00, description: "Degustazione di specialità di mare (2 persone).", description_en: "Selection of seafood bites (2 people).", allergens: ["Glutine", "Latte", "Crostacei", "Pesce"], allergens_en: ["Gluten", "Milk", "Crustaceans", "Fish"] }
+            { name: "Aperitivo Terra (x2)", name_en: "Land Aperitif (x2)", price: 10.00, description: "Degustazione di specialità di terra (2 persone).", description_en: "Selection of mixed savoury bites (2 people).", allergens: ["Glutine", "Latte", "Uova"], allergens_en: ["Gluten", "Milk", "Eggs"] },
+            { name: "Aperitivo Mare (x2)", name_en: "Seafood Aperitif (x2)", price: 15.00, description: "Degustazione di specialità di mare (2 persone).", description_en: "Selection of seafood bites (2 people).", allergens: ["Glutine", "Latte", "Crostacei", "Pesce"], allergens_en: ["Gluten", "Milk", "Crustaceans", "Fish"] }
         ]
     },
     {
