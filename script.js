@@ -9,13 +9,13 @@ const menuData = [
         items: [
             { name: "Acqua Naturale", name_en: "Still Water", price: 1.00 },
             { name: "Acqua Frizzante", name_en: "Sparkling Water", price: 1.00 },
-            { name: "Coca Cola", name_en: "Coca Cola", price: 3.00 },
-            { name: "Coca Cola Zero", name_en: "Coca Cola Zero", price: 3.00 },
-            { name: "Fanta", name_en: "Fanta", price: 3.00 },
-            { name: "Sprite", name_en: "Sprite", price: 3.00 },
-            { name: "Fuze Tea Limone/Pesca", name_en: "Fuze Tea Lemon/Peach", price: 3.00 },
-            { name: "Lemon Soda", name_en: "Lemon Soda", price: 3.00 },
-            { name: "Red Bull", name_en: "Red Bull", price: 3.50 }
+            { name: "Coca Cola", name_en: "Coca Cola", price: 2.50 },
+            { name: "Coca Cola Zero", name_en: "Coca Cola Zero", price: 2.50 },
+            { name: "Fanta", name_en: "Fanta", price: 2.50 },
+            { name: "Sprite", name_en: "Sprite", price: 2.50 },
+            { name: "Fuze Tea Limone/Pesca", name_en: "Fuze Tea Lemon/Peach", price: 2.50 },
+            { name: "Lemon Soda", name_en: "Lemon Soda", price: 2.50 },
+            { name: "Red Bull", name_en: "Red Bull", price: 3.00 }
         ]
     },
     {
