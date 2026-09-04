@@ -95,7 +95,7 @@ const menuData = [
             { name: "Caffè Macchiato", name_en: "Macchiato", price: 1.30, allergens: ["Latte"], allergens_en: ["Milk"] },
             { name: "Caffè Corretto", name_en: "Corrected Coffee", price: 1.60, description: "Caffè con un goccio di sambuca.", description_en: "Coffee with a dash of sambuca.", allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
             { name: "Cappuccino", name_en: "Cappuccino", price: 1.80, allergens: ["Latte"], allergens_en: ["Milk"] },
-            { name: "Cappuccino Soia", name_en: "Soy Cappuccino", price: 1.80, allergens: ["Soia"], allergens_en: ["Soy"] },
+            { name: "Cappuccino Soia", name_en: "Soy Cappuccino", price: 2.00, allergens: ["Soia"], allergens_en: ["Soy"] },
             { name: "Ginseng", name_en: "Ginseng Coffee", price: 1.50 },
             { name: "Caffè in Ghiaccio", name_en: "Iced Coffee", price: 1.40, description: "Caffè e ghiaccio.", description_en: "Coffee and ice." },
             { name: "Caffè Leccese", name_en: "Caffè Leccese", price: 2.50, description: "Caffè, ghiaccio e latte di mandorla.", description_en: "Coffee, ice and almond milk.", allergens: ["Frutta a guscio (mandorla)"], allergens_en: ["Tree nuts (almond)"] },
