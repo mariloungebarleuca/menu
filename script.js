@@ -157,9 +157,9 @@ const menuData = [
             { name: "Cantele Chardonnay IGP (bottiglia)", name_en: "Cantele Chardonnay IGP (bottle)", price: 20.00, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
             { name: "Cantele Primitivo Rosso IGP (calice)", name_en: "Cantele Primitivo Red IGP (glass)", price: 4.50, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
             { name: "Cantele Primitivo Rosso IGP (bottiglia)", name_en: "Cantele Primitivo Red IGP (bottle)", price: 20.00, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
-            { name: "Cantele Negramaro Rosato IGP (calice)", name_en: "Cantele Negramaro Rosé IGP (glass)", price: 4.50, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
+            { name: "Cantele Negramaro Rosato IGP (calice)", name_en: "Cantele Negramaro Rosé IGP (glass)", price: 4.00, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
             { name: "Cantele Negramaro Rosato IGP (bottiglia)", name_en: "Cantele Negramaro Rosé IGP (bottle)", price: 20.00, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
-            { name: "San Marzano Tramari Rosé (calice)", name_en: "San Marzano Tramari Rosé (glass)", price: 5.00, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
+            { name: "San Marzano Tramari Rosé (calice)", name_en: "San Marzano Tramari Rosé (glass)", price: 4.50, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
             { name: "San Marzano Tramari Rosé (bottiglia)", name_en: "San Marzano Tramari Rosé (bottle)", price: 24.00, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
             { name: "San Marzano Il Pumo Bianco Frizzante (calice)", name_en: "San Marzano Il Pumo Sparkling White (glass)", price: 4.50, allergens: ["Solfiti"], allergens_en: ["Sulphites"] },
             { name: "San Marzano Il Pumo Bianco Frizzante (bottiglia)", name_en: "San Marzano Il Pumo Sparkling White (bottle)", price: 20.00, allergens: ["Solfiti"], allergens_en: ["Sulphites"] }
